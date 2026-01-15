@@ -256,7 +256,10 @@ body{
 }
 
 .accordion-body{
-    background-color: grey;
+    background-color: #FFF8F0;
+    color: #B22222;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px rgba(160, 82, 45, 0.3);
 }
 
 
